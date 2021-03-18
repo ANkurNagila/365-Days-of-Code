@@ -6,6 +6,6 @@
 
 **Today's Progress**: 365 Days of Code
 
-**Thoughts:** 1 day so let's come with basic C
+**Thoughts:** 1 day so let's come with basic C(Basic Code chef)
 
-**Link to work:** 
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code1/hidden_numbers.c
