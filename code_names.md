@@ -6,3 +6,6 @@ The log of my #365DaysOfCode challenge. Started on [March 18, Thrusday, 2021].
 
 ### R1D1 
 Hidden Numbers
+
+### R1D2
+Daanish and Problems
