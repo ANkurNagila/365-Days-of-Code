@@ -9,3 +9,6 @@ Hidden Numbers
 
 ### R1D2
 Daanish and Problems
+
+### R1D3
+Sed Sequences
