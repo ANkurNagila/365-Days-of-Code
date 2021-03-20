@@ -21,3 +21,12 @@
 
 
 
+### Day 3: March 20, 2021
+
+**Today's Progress**:**Concentrate over the possibility of output** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code3/Sed_sequences.py
+
+
