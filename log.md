@@ -30,3 +30,10 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code3/Sed_sequences.py
 
 
+### Day 4: March 21, 2021
+
+**Today's Progress**:**Revise Switch case in C** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code4/chef_and_snackdown.c
