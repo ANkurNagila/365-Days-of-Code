@@ -12,3 +12,6 @@ Daanish and Problems
 
 ### R1D3
 Sed Sequences
+
+### R1D4
+Chef and SnackDown
