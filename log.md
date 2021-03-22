@@ -37,3 +37,13 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code4/chef_and_snackdown.c
+
+
+
+### Day 5: March 23, 2021
+
+**Today's Progress**:**Revise Sqrt and it's features in C** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code5/FlatLand.c
