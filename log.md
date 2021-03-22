@@ -40,7 +40,7 @@
 
 
 
-### Day 5: March 23, 2021
+### Day 5: March 22, 2021
 
 **Today's Progress**:**Revise Sqrt and it's features in C** 
 
