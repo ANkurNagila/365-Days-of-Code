@@ -18,3 +18,6 @@ Chef and SnackDown
 
 ### R1D5
 FlatLand
+
+### R1D6
+Chef and Bored games
