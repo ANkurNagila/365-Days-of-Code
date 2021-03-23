@@ -47,3 +47,13 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code5/FlatLand.c
+
+
+
+### Day 6: March 23, 2021
+
+**Today's Progress**:**Just a Pattern followed** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code6/Chef_and_Bored_games.py
