@@ -57,3 +57,12 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code6/Chef_and_Bored_games.py
+
+
+### Day 7: March 24, 2021
+
+**Today's Progress**:**Swithcher in python** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code7/Playing_with_matches.py
