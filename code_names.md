@@ -21,3 +21,6 @@ FlatLand
 
 ### R1D6
 Chef and Bored games
+
+### R1D7
+Playing with matches
