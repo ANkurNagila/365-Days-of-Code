@@ -15,7 +15,7 @@ def numbers(argument):
     return switcher.get(argument, "nothing")
 
 for _ in range(int(input())):
-    A,B=map(int,input().strip().split(" "))
+    A,B=map(int,input().split(" "))
     
     sum=A+B
     sum2=0
