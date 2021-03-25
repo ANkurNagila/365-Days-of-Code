@@ -66,3 +66,13 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code7/Playing_with_matches.py
+
+
+
+### Day 8: March 25, 2021
+
+**Today's Progress**:**Maths is important** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code8/fit_squares_in_triangle.py
