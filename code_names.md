@@ -24,3 +24,6 @@ Chef and Bored games
 
 ### R1D7
 Playing with matches
+
+### R1D8
+Fit squares in triangle
