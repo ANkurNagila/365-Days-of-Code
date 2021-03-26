@@ -76,3 +76,13 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code8/fit_squares_in_triangle.py
+
+
+
+### Day 9: March 26, 2021
+
+**Today's Progress**:**Nothing as such just that even an extra condition can spoil** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code9/chef_and_two_strings.py
