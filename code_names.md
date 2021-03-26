@@ -27,3 +27,6 @@ Playing with matches
 
 ### R1D8
 Fit squares in triangle
+
+### R1D9
+Chef and two strings
