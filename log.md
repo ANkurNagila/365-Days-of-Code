@@ -86,3 +86,12 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code9/chef_and_two_strings.py
+
+
+### Day 10: March 27, 2021
+
+**Today's Progress**:**Concentrate over the question** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code10/equal_elements.py
