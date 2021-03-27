@@ -30,3 +30,6 @@ Fit squares in triangle
 
 ### R1D9
 Chef and two strings
+
+### R1D10
+Equal elements
