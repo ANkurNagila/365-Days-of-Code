@@ -33,3 +33,6 @@ Chef and two strings
 
 ### R1D10
 Equal elements
+
+### R1D11
+Server Trouble
