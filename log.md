@@ -95,3 +95,14 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code10/equal_elements.py
+
+
+
+
+### Day 11: March 28, 2021
+
+**Today's Progress**:**Think about question rather than Test cases** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code11/server_problem.py
