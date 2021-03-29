@@ -106,3 +106,13 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code11/server_problem.py
+
+
+
+### Day 12: March 29, 2021
+
+**Today's Progress**:**Think about question rather than Test cases** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code12/possible_victory.py
