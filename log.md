@@ -125,4 +125,4 @@
 
 **Thoughts:** Code chef beginner
 
-**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code13/chef_and_control_price.py
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code13/chef_and_price_control.py
