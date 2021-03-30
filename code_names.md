@@ -39,3 +39,6 @@ Server Trouble
 
 ### R1D12
 Possible Victory
+
+### R1D13
+Chef and Price Control
