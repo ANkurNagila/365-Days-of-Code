@@ -116,3 +116,13 @@
 **Thoughts:** Code chef beginner
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code12/possible_victory.py
+
+
+
+### Day 13: March 30, 2021
+
+**Today's Progress**:**Simple question** 
+
+**Thoughts:** Code chef beginner
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Code13/chef_and_control_price.py
