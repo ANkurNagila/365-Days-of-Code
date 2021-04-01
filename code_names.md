@@ -45,3 +45,6 @@ Possible Victory
 
 ### R1D13
 Chef and Price Control
+
+### R1D14
+Prime number using Bitwise
