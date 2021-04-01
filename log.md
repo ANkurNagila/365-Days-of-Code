@@ -135,3 +135,12 @@
 **Thoughts:** Just for fun
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code14/understand.py
+
+
+### Day 15: March 31, 2021
+
+**Today's Progress**:**Use of bitwise** 
+
+**Thoughts:** Prime Number using Bitwise
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code15/prime_number_using_bitwise.py
