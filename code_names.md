@@ -35,9 +35,6 @@ Chef and two strings
 Equal elements
 
 ### R1D11
-Just for fun
-
-### R1D11
 Server Trouble
 
 ### R1D12
@@ -47,4 +44,7 @@ Possible Victory
 Chef and Price Control
 
 ### R1D14
+Just for fun
+
+### R1D15
 Prime number using Bitwise
