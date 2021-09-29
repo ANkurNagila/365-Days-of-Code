@@ -144,3 +144,15 @@
 **Thoughts:** Prime Number using Bitwise
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Code15/prime_number_using_bitwise.py
+
+
+
+# *365 Days Of Code Restart - Log
+
+
+**Today's Progress**:**Use of Recursion** 
+
+**Thoughts:** Number of rectangel inside a traingle.
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/1_Code/recursive_traingle.cpp
+
