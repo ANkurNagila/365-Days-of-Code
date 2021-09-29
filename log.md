@@ -150,6 +150,8 @@
 # *365 Days Of Code Restart - Log
 
 
+### Day 1: September 29, 2021
+
 **Today's Progress**:**Use of Recursion** 
 
 **Thoughts:** Number of rectangel inside a traingle.
