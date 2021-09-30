@@ -158,3 +158,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/1_Code/recursive_traingle.cpp
 
+
+
+### Day 2: September 30, 2021
+
+**Today's Progress**:**Use of Recursion** 
+
+**Thoughts:** Index of element using recursion stored and returned in an array.
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/2_Code/index_of_element.cpp
