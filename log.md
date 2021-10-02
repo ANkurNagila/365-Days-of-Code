@@ -176,3 +176,14 @@
 **Thoughts:** Change pi to 3.14
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/3_Code/Pi(recursion).cpp
+
+
+
+### Day 4: October 2, 2021
+
+**Today's Progress**:**Use of Recursion** 
+
+**Thoughts:** Tower of Hanoi  
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/4_Code/tower_of_hanoi.cpp
+
