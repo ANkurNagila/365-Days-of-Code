@@ -167,3 +167,12 @@
 **Thoughts:** Index of element using recursion stored and returned in an array.
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/2_Code/index_of_element.cpp
+
+
+### Day 3: October 1, 2021
+
+**Today's Progress**:**Use of Recursion** 
+
+**Thoughts:** Change pi to 3.14
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/3_Code/Pi(recursion).cpp
