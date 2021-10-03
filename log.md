@@ -187,3 +187,11 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/4_Code/tower_of_hanoi.cpp
 
+
+### Day 5: October 3, 2021
+
+**Today's Progress**:**Use of 2-D array** 
+
+**Thoughts:** Diagonal pattern 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/5_Code/diagonal_pattern.cpp
