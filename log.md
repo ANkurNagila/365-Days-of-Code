@@ -195,3 +195,14 @@
 **Thoughts:** Diagonal pattern 
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/5_Code/diagonal_pattern.cpp
+
+
+
+### Day 6: October 4, 2021
+
+**Today's Progress**:**Use of Dynamic array** 
+
+**Thoughts:** Kitchen time table 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/6_Code/kitchen_timetable.cpp
+
