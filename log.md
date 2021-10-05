@@ -206,3 +206,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/6_Code/kitchen_timetable.cpp
 
+
+### Day 7: October 5, 2021
+
+**Today's Progress**:**Use of bit operator and it's concepts** 
+
+**Thoughts:** Largest and Subarray(long code chef)
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/7_Code/Largest_and_subarray.cpp
+
