@@ -48,3 +48,25 @@ Just for fun
 
 ### R1D15
 Prime number using Bitwise
+
+
+### R2D1
+Recursive triangle
+
+### R2D2
+Index of Elements
+
+### R2D3
+Pi(recursion)
+
+### R2D4
+Tower of Hanoi
+
+### R2D5
+Diagonal Pattern
+
+### R2D6
+Kitchen Timetable
+
+### R2D7
+Longest and Subarray
