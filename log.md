@@ -215,3 +215,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/7_Code/Largest_and_subarray.cpp
 
+
+### Day 8: October 6, 2021
+
+**Today's Progress**:**Use of bit operator and it's concepts** 
+
+**Thoughts:** Mex-Or(long code chef)
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/8_Code/mex.cpp
+
