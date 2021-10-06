@@ -70,3 +70,6 @@ Kitchen Timetable
 
 ### R2D7
 Longest and Subarray
+
+### R2D8
+Mex-Or
