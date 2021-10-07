@@ -224,3 +224,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/8_Code/mex.cpp
 
+
+### Day 9: October 7, 2021
+
+**Today's Progress**:**Revision of string** 
+
+**Thoughts:** Digit frequecy
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/9_Code/digit_frequency.c
+
