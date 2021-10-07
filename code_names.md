@@ -73,3 +73,6 @@ Longest and Subarray
 
 ### R2D8
 Mex-Or
+
+### R2D9
+Digit Frequency
