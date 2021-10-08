@@ -233,3 +233,15 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/9_Code/digit_frequency.c
 
+
+
+
+### Day 10: October 8, 2021
+
+**Today's Progress**:**Revision of string ans integer** 
+
+**Thoughts:** Digit removal
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/10_Code/digit_removal.cpp
+
+
