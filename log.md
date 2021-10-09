@@ -245,3 +245,13 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/10_Code/digit_removal.cpp
 
 
+
+
+### Day 10: October 9, 2021
+
+**Today's Progress**:**Revision of recursion** 
+
+**Thoughts:** Calculate Nth term
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/11_Code/cal_nth_term.c
+
