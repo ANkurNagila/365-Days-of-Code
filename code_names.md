@@ -76,3 +76,12 @@ Mex-Or
 
 ### R2D9
 Digit Frequency
+
+### R2D10
+Digit Removal
+
+### R2D11
+Calculate Nth term
+
+### R2D12
+Sum of array
