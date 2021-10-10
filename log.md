@@ -247,7 +247,7 @@
 
 
 
-### Day 10: October 9, 2021
+### Day 11: October 9, 2021
 
 **Today's Progress**:**Revision of recursion** 
 
@@ -256,7 +256,7 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/11_Code/cal_nth_term.c
 
 
-### Day 10: October 9, 2021
+### Day 12: October 9, 2021
 
 **Today's Progress**:**Concept of distraction** 
 
