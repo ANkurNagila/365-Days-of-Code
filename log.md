@@ -266,7 +266,7 @@
 
 
 
-### Day 11: October 11, 2021
+### Day 13: October 11, 2021
 
 **Today's Progress**:**Data types** 
 
