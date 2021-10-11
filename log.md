@@ -256,7 +256,7 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/11_Code/cal_nth_term.c
 
 
-### Day 12: October 9, 2021
+### Day 12: October 10, 2021
 
 **Today's Progress**:**Concept of distraction** 
 
@@ -264,3 +264,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/12_Code/sum_of_array.c
 
+
+
+### Day 11: October 11, 2021
+
+**Today's Progress**:**Data types** 
+
+**Thoughts:** Data types
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/13_Code/data_type.cpp
