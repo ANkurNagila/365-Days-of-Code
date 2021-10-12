@@ -273,3 +273,13 @@
 **Thoughts:** Data types
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/13_Code/data_type.cpp
+
+
+
+### Day 14: October 12, 2021
+
+**Today's Progress**:**Code Chef preactice** 
+
+**Thoughts:** Data types
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/14_Code/subtask.cpp
