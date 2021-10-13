@@ -85,3 +85,12 @@ Calculate Nth term
 
 ### R2D12
 Sum of array
+
+### R2D13
+Data Types
+
+### R2D14
+SubTask
+
+### R2D15
+Merge Sort
