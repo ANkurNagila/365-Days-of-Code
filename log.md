@@ -283,3 +283,13 @@
 **Thoughts:** Data types
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/14_Code/subtask.cpp
+
+
+
+### Day 15: October 13, 2021
+
+**Today's Progress**:**Merge Sort and recursion concepts** 
+
+**Thoughts:** Merge Sort 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/15_Code/merge_sort.cpp
