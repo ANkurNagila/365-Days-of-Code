@@ -11,24 +11,21 @@ int main() {
 
     
     // Declare second integer, double, and String variables.
-    int new_int;
-    double new_double;
-    string new_string;
+    
+    int j;
+    double e;
+    string s1;
     
     // Read and save an integer, double, and String to your variables.
-    // Note: If you have trouble reading the entire string, please go back and review the Tutorial closely.
-    cin>>new_int;
-    cin>>new_double;
-    getline(cin,new_string);
+    cin>>j;
+    cin>>e;
+    cin.ignore();
+    getline(cin,s1);
     
-    // Print the sum of both integer variables on a new line.
-    cout<<new_int+i<<endl;
-    // Print the sum of the double variables on a new line.
-    new_double=new_double+d;
-    printf("%.1f\n",new_double);
-    // Concatenate and print the String variables on a new line
-    cout<<new_string<<endl;
-    // The 's' variable above should be printed first.
+    s=s+s1;
 
+    cout<<(i+j)<<endl;
+    cout<<fixed << setprecision(1)<<(e+d)<<endl;
+    cout<<s;
+    
     return 0;
-}
