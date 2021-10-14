@@ -293,3 +293,13 @@
 **Thoughts:** Merge Sort 
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/15_Code/merge_sort.cpp
+
+
+
+### Day 16: October 14, 2021
+
+**Today's Progress**:**Revision of operators** 
+
+**Thoughts:** Operators
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/16_Code/operators.cpp
