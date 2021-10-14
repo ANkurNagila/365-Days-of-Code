@@ -94,3 +94,6 @@ SubTask
 
 ### R2D15
 Merge Sort
+
+### R2D16
+Operators
