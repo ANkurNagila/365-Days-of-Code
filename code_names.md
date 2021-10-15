@@ -97,3 +97,6 @@ Merge Sort
 
 ### R2D16
 Operators
+
+### R2D17
+Quick Sort
