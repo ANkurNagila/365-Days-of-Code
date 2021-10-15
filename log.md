@@ -303,3 +303,12 @@
 **Thoughts:** Operators
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/16_Code/operators.cpp
+
+
+### Day 17: October 15, 2021
+
+**Today's Progress**:**Recurison** 
+
+**Thoughts:** Quick Sort
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/17_Code/quick_sort.cpp
