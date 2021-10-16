@@ -100,3 +100,6 @@ Operators
 
 ### R2D17
 Quick Sort
+
+### R2D18
+Dogs and Cats
