@@ -312,3 +312,12 @@
 **Thoughts:** Quick Sort
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/17_Code/quick_sort.cpp
+
+
+### Day 18: October 16, 2021
+
+**Today's Progress**:**Kick start question** 
+
+**Thoughts:** Conditional and using flag
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/18_Code/dogs_and_cats.cpp
