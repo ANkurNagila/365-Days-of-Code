@@ -321,3 +321,12 @@
 **Thoughts:** Conditional and using flag
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/18_Code/dogs_and_cats.cpp
+
+
+### Day 19: October 17, 2021
+
+**Today's Progress**:**Concept of cin.ignore()** 
+
+**Thoughts:** Let's review (something that is quite interesting about taking input)
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/19_Code/let's_review.cpp
