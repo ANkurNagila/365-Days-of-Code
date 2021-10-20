@@ -112,3 +112,6 @@ Keypad Combination
 
 ### R2D21
 Return Subset arrray
+
+### R2D22
+Factors of number
