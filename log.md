@@ -357,3 +357,12 @@
 **Thoughts:** Finding factors using recursion
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/22_Code/factors_of_number.cpp
+
+
+### Day 23: October 21, 2021
+
+**Today's Progress**:**String array** 
+
+**Thoughts:** Laddu
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/23_Code/laddu.cpp
