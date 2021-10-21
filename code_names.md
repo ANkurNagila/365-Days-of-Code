@@ -115,3 +115,6 @@ Return Subset arrray
 
 ### R2D22
 Factors of number
+
+### R2D23
+Laddu
