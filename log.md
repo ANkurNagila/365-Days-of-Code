@@ -366,3 +366,12 @@
 **Thoughts:** Laddu
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/23_Code/laddu.cpp
+
+
+### Day 24: October 22, 2021
+
+**Today's Progress**:**just bit of sorting and calculation** 
+
+**Thoughts:** Profit making
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/24_Code/profit.cpp
