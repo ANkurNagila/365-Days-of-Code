@@ -118,3 +118,6 @@ Factors of number
 
 ### R2D23
 Laddu
+
+### R2D24
+Profit
