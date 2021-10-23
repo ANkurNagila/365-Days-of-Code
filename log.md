@@ -375,3 +375,12 @@
 **Thoughts:** Profit making
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/24_Code/profit.cpp
+
+
+### Day 25: October 23, 2021
+
+**Today's Progress**:**just a good example of how easy questions can have complex solution** 
+
+**Thoughts:** 2-D array
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/25_Code/2-D_array.cpp
