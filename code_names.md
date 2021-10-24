@@ -124,3 +124,6 @@ Profit
 
 ### R2D25
 2-D array
+
+### R2D26
+Typing
