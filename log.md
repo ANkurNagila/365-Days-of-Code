@@ -384,3 +384,13 @@
 **Thoughts:** 2-D array
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/25_Code/2-D_array.cpp
+
+
+
+### Day 25: October 24, 2021
+
+**Today's Progress**:**using of string and read question properly** 
+
+**Thoughts:** Typing
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/26_Code/typing.cpp
