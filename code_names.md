@@ -127,3 +127,6 @@ Profit
 
 ### R2D26
 Typing
+
+### R2D27
+Cards
