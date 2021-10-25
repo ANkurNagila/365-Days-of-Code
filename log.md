@@ -394,3 +394,14 @@
 **Thoughts:** Typing
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/26_Code/typing.cpp
+
+
+### Day 26: October 25, 2021
+
+**Today's Progress**:**using of string and array side by side concept of dictionary** 
+
+**Thoughts:** Cards
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/27_Code/cards.cpp
+
+
