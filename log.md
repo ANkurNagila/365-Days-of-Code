@@ -387,7 +387,7 @@
 
 
 
-### Day 25: October 24, 2021
+### Day 26: October 24, 2021
 
 **Today's Progress**:**using of string and read question properly** 
 
@@ -396,7 +396,7 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/26_Code/typing.cpp
 
 
-### Day 26: October 25, 2021
+### Day 27: October 25, 2021
 
 **Today's Progress**:**using of string and array side by side concept of dictionary** 
 
