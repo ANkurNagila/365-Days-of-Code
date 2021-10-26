@@ -130,3 +130,6 @@ Typing
 
 ### R2D27
 Cards
+
+### R2D28
+Consecutive Riddle sum
