@@ -405,3 +405,12 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/tree/main/Restart/27_Code/cards.cpp
 
 
+### Day 28: October 26, 2021
+
+**Today's Progress**:**TLE still had a idea and need to improve** 
+
+**Thoughts:** Consecutive Riddle
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/28_Code/consecutive_riddle.cpp
+
+
