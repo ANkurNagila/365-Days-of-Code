@@ -414,3 +414,12 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/28_Code/consecutive_riddle.cpp
 
 
+### Day 29: October 27, 2021
+
+**Today's Progress**:**Vector starting** 
+
+**Thoughts:** Matrix Addition
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/29_Code/matrix_addition.cpp
+
+
