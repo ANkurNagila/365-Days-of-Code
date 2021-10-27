@@ -49,6 +49,7 @@ Just for fun
 ### R1D15
 Prime number using Bitwise
 
+# #365DaysOfCode Log - Round 2 - [ANkur Nagila]
 
 ### R2D1
 Recursive triangle
@@ -133,3 +134,6 @@ Cards
 
 ### R2D28
 Consecutive Riddle sum
+
+### R2D29
+Matrix Addition
