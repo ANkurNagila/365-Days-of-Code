@@ -423,3 +423,11 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/29_Code/matrix_addition.cpp
 
 
+### Day 30: October 28, 2021
+
+**Today's Progress**:**Exception Handling basics** 
+
+**Thoughts:** Converting sting to integer ( learning new important basic concepts) 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/30_Code/string_to_integer.cpp
+
