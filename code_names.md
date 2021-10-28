@@ -137,3 +137,6 @@ Consecutive Riddle sum
 
 ### R2D29
 Matrix Addition
+
+### R2D30
+String to integer
