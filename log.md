@@ -431,3 +431,13 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/30_Code/string_to_integer.cpp
 
+
+### Day 31: October 29, 2021
+
+**Today's Progress**:**erasing elements of vectors** 
+
+**Thoughts:** erase vector 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/31_Code/vector_erase.cpp
+
+
