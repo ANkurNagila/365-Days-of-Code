@@ -140,3 +140,6 @@ Matrix Addition
 
 ### R2D30
 String to integer
+
+### R2D31
+Vector Erase
