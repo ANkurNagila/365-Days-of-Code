@@ -441,3 +441,12 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/31_Code/vector_erase.cpp
 
 
+
+### Day 32: October 30, 2021
+
+**Today's Progress**:**Perfect use of pair and vector in a question** 
+
+**Thoughts:** Staying hydrated(kick start round G 2021)
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/32_Code/staying_hydrated.cpp
+
