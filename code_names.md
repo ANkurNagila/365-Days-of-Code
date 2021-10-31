@@ -146,3 +146,6 @@ Vector Erase
 
 ### R2D32
 Staying Hydrated
+
+### R2D33
+Print sum k
