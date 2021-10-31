@@ -450,3 +450,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/32_Code/staying_hydrated.cpp
 
+
+### Day 33: October 31, 2021
+
+**Today's Progress**:**Recursion** 
+
+**Thoughts:** Print sum k
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/33_Code/print_sum_k.cpp
+
