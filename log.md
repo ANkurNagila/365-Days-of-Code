@@ -459,3 +459,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/33_Code/print_sum_k.cpp
 
+
+### Day 34: November 1, 2021
+
+**Today's Progress**:**Recursion** 
+
+**Thoughts:** Return permutation of strings
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/34_Code/return_permutation.cpp
+
