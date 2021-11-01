@@ -149,3 +149,6 @@ Staying Hydrated
 
 ### R2D33
 Print sum k
+
+### R2D34
+Return permutation of strings
