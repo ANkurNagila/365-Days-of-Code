@@ -468,3 +468,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/34_Code/return_permutation.cpp
 
+
+### Day 35: November 2, 2021
+
+**Today's Progress**:**introduction to class** 
+
+**Thoughts:** Sum of products
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/35_Code/sum_of_product.cpp
+
