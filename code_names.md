@@ -152,3 +152,6 @@ Print sum k
 
 ### R2D34
 Return permutation of strings
+
+### R2D35
+Sum of products
