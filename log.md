@@ -477,3 +477,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/35_Code/sum_of_product.cpp
 
+
+### Day 36: November 3, 2021
+
+**Today's Progress**:**basic maths** 
+
+**Thoughts:** Army game
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/36_Code/Army_game.cpp
+
