@@ -155,3 +155,6 @@ Return permutation of strings
 
 ### R2D35
 Sum of products
+
+### R2D36
+Army Game
