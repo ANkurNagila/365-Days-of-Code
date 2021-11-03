@@ -31,7 +31,7 @@ int gameWithCells(int n, int m) {
     {
         return paired_col;
     }
-    else if(extra_rows!=0 and extra_rows!=0)
+    else if(extra_rows!=0 and extra_cols!=0)
     {
         int sum=(extra_rows/2) + (extra_cols/2) +paired_col+1;
         return sum;   
