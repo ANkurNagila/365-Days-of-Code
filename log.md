@@ -486,3 +486,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/36_Code/Army_game.cpp
 
+
+### Day 37: November 4, 2021
+
+**Today's Progress**:**basic maths and modulo concept using** 
+
+**Thoughts:** Connecting Towns
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/37_Code/connecting_towns.cpp
+
