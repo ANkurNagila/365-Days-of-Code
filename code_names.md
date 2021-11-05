@@ -161,3 +161,6 @@ Army Game
 
 ### R2D37
 Connecting Towns
+
+### R2D38
+Trash Bin
