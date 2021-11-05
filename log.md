@@ -495,3 +495,13 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/37_Code/connecting_towns.cpp
 
+
+
+### Day 38: November 5, 2021
+
+**Today's Progress**:**Basic vector using** 
+
+**Thoughts:** Trash Bin(kickstart round F)
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/38_Code/trash_bin.cpp
+
