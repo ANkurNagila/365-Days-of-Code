@@ -505,3 +505,13 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/38_Code/trash_bin.cpp
 
+
+### Day 39: November 6, 2021
+
+**Today's Progress**:**vector sort both asce and desc** 
+
+**Thoughts:** Hill sequence
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/39_Code/hill_sequence.cpp
+
+
