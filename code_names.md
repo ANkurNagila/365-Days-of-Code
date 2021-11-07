@@ -167,3 +167,6 @@ Trash Bin
 
 ### R2D39
 Hill sequence
+
+### R2D40
+Cutting Paper
