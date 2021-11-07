@@ -515,3 +515,11 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/39_Code/hill_sequence.cpp
 
 
+### Day 40: November 7, 2021
+
+**Today's Progress**:**Very easy added as a reminder to read question properly** 
+
+**Thoughts:** Cutting papers
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/40_Code/cutting_paper.cpp
+
