@@ -28,16 +28,19 @@ int main() {
             v1.push_back(test);
         }
         sort(v1.begin(),v1.end(),greater<int>());
-
-        for(int i=0;i<n;i++)
+       
+        
+        
+        uncommon.push_back(v1[0]);
+        for(int i=1;i<n;i++)
         {
-            if(v1[i-1]==v1[i] and v1[i]!=v1[i+1])
-            {
-                common.push_back(v1[i]);
-            }
-            else if(v1[i-1]==v1[i] and (v1[i]==v1[i+1] or i==n-1))
+            if(v1[i-1]==v1[i] and ((v1[i]==v1[i+1]) or i==1))
             {
                 flag=1;
+            }
+            else if(v1[i-1]==v1[i] and v1[i]!=v1[i+1])
+            {
+                common.push_back(v1[i]);
             }
             else
             {
