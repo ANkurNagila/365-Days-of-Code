@@ -523,3 +523,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/40_Code/cutting_paper.cpp
 
+
+### Day 41: November 8, 2021
+
+**Today's Progress**:**Free dynamic memory** 
+
+**Thoughts:** Linked list deletion
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/41_Code/linked_list_deletion.c
+
