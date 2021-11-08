@@ -170,3 +170,6 @@ Hill sequence
 
 ### R2D40
 Cutting Paper
+
+### R2D41
+Linked list(use free function) 
