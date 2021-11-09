@@ -173,3 +173,6 @@ Cutting Paper
 
 ### R2D41
 Linked list(use free function) 
+
+### R2D42
+Dynamic Array
