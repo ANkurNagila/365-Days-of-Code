@@ -532,3 +532,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/41_Code/linked_list_deletion.c
 
+
+### Day 42: November 9, 2021
+
+**Today's Progress**:**Using vector concepts briefly** 
+
+**Thoughts:** dynamic array
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/42_Code/dynamic_array.cpp
+
