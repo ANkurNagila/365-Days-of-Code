@@ -179,3 +179,6 @@ Dynamic Array
 
 ### R2D43
 Unique element in array
+
+### R2D44
+Removal of duplicated element from sorted linked list
