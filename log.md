@@ -550,3 +550,11 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/43_Code/unique_element_in_array.cpp
 
+
+### Day 44: November 11, 2021
+
+**Today's Progress**:**Linked list more questions geeks** 
+
+**Thoughts:** Duplication removed from sorted linked list
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/44_Code/linked_list_remove_duplication.cpp
