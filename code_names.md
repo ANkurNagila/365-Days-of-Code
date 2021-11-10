@@ -176,3 +176,6 @@ Linked list(use free function)
 
 ### R2D42
 Dynamic Array
+
+### R2D43
+Unique element in array
