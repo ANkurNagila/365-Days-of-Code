@@ -541,3 +541,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/42_Code/dynamic_array.cpp
 
+
+### Day 43: November 10, 2021
+
+**Today's Progress**:**Xor concept** 
+
+**Thoughts:** Unique element in array
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/43_Code/unique_element_in_array.cpp
+
