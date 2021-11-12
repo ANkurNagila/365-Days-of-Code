@@ -558,3 +558,12 @@
 **Thoughts:** Duplication removed from sorted linked list
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/44_Code/linked_list_remove_duplication.cpp
+
+
+### Day 45: November 12, 2021
+
+**Today's Progress**:**Recursion ** 
+
+**Thoughts:** Split Array
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/45_Code/split_array.cpp
