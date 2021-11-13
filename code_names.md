@@ -185,3 +185,6 @@ Removal of duplicated element from sorted linked list
 
 ### R2D45
 Split Array
+
+### R2D46
+Delete node without header
