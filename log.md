@@ -567,3 +567,12 @@
 **Thoughts:** Split Array
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/45_Code/split_array.cpp
+
+
+### Day 46: November 13, 2021
+
+**Today's Progress**:**Linked list** 
+
+**Thoughts:** delete node without head
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/46_Code/delete_node_without_header.cpp
