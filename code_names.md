@@ -188,3 +188,6 @@ Split Array
 
 ### R2D46
 Delete node without header
+
+### R2D47
+Finding middle term
