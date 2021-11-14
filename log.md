@@ -576,3 +576,12 @@
 **Thoughts:** delete node without head
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/46_Code/delete_node_without_header.cpp
+
+
+### Day 47: November 14, 2021
+
+**Today's Progress**:**Linked list** 
+
+**Thoughts:** Middle term best algorithm O(n)
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/47_Code/finding_middle_term.cpp
