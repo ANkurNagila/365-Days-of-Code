@@ -585,3 +585,12 @@
 **Thoughts:** Middle term best algorithm O(n)
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/47_Code/finding_middle_term.cpp
+
+
+### Day 48: November 15, 2021
+
+**Today's Progress**:**Using erase function in vector** 
+
+**Thoughts:** Left rotation
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/48_Code/left_rotation.cpp
