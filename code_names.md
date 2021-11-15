@@ -191,3 +191,6 @@ Delete node without header
 
 ### R2D47
 Finding middle term
+
+### R2D48
+Remove duplicates from array
