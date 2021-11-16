@@ -194,3 +194,6 @@ Finding middle term
 
 ### R2D48
 Remove duplicates from array
+
+### R2D49
+Merge two sorted lists
