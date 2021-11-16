@@ -594,3 +594,12 @@
 **Thoughts:** Left rotation
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/48_Code/left_rotation.cpp
+
+
+### Day 49: November 16, 2021
+
+**Today's Progress**:**Linked list** 
+
+**Thoughts:** Merge two sorted linked list
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/49_Code/merge_two_sorted_lists.cpp
