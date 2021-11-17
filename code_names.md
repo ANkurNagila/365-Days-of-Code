@@ -197,3 +197,6 @@ Remove duplicates from array
 
 ### R2D49
 Merge two sorted lists
+
+### R2D50
+Swapping pos in linked list
