@@ -603,3 +603,12 @@
 **Thoughts:** Merge two sorted linked list
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/49_Code/merge_two_sorted_lists.cpp
+
+
+### Day 50: November 17, 2021
+
+**Today's Progress**:**Linked list swapping pos and use of the memory and conditons** 
+
+**Thoughts:** linked list swap position
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/50_Code/linked_list_swap_pos.cpp
