@@ -621,3 +621,12 @@
 **Thoughts:** Xor array simple
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/51_Code/xor_array_operation.cpp
+
+
+### Day 52: November 19, 2021
+
+**Today's Progress**:**Vector subvector concept** 
+
+**Thoughts:** Sum of All Subset XOR Totals
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/52_Code/sum_subset_xor_totals.cpp
