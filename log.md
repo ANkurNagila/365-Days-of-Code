@@ -612,3 +612,12 @@
 **Thoughts:** linked list swap position
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/50_Code/linked_list_swap_pos.cpp
+
+
+### Day 51: November 18, 2021
+
+**Today's Progress**:**Xor simple** 
+
+**Thoughts:** Xor array simple
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/51_Code/xor_array_operation.cpp
