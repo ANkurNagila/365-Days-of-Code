@@ -200,3 +200,6 @@ Merge two sorted lists
 
 ### R2D50
 Swapping pos in linked list
+
+### R2D51
+Xor array operation
