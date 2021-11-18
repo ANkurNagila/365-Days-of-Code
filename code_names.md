@@ -203,3 +203,6 @@ Swapping pos in linked list
 
 ### R2D51
 Xor array operation
+
+### R2D52
+Sum of All Subset XOR Totals
