@@ -630,3 +630,13 @@
 **Thoughts:** Sum of All Subset XOR Totals
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/52_Code/sum_subset_xor_totals.cpp
+
+
+
+### Day 53: November 20, 2021
+
+**Today's Progress**:**Class and Object oops concept basic** 
+
+**Thoughts:** Use of constructors and other functions
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/53_Code/complex_numbers.cpp
