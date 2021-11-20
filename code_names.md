@@ -206,3 +206,6 @@ Xor array operation
 
 ### R2D52
 Sum of All Subset XOR Totals
+
+### R2D53
+Complex Numbers
