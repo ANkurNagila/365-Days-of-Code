@@ -209,3 +209,6 @@ Sum of All Subset XOR Totals
 
 ### R2D53
 Complex Numbers
+
+### R2D54
+Binary into decimal in linked list
