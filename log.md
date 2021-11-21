@@ -640,3 +640,12 @@
 **Thoughts:** Use of constructors and other functions
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/53_Code/complex_numbers.cpp
+
+
+### Day 54: November 21, 2021
+
+**Today's Progress**:**Concepts of maths ** 
+
+**Thoughts:** Converting linked list elements (binary) into a decimal number
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/54_Code/binary_into_decimal_in_linked_list.cpp
