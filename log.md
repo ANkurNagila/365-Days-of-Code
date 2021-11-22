@@ -649,3 +649,13 @@
 **Thoughts:** Converting linked list elements (binary) into a decimal number
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/54_Code/binary_into_decimal_in_linked_list.cpp
+
+
+
+### Day 55: November 22, 2021
+
+**Today's Progress**:**Call by reference ** 
+
+**Thoughts:** too easy
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/55_Code/pointer.cpp
