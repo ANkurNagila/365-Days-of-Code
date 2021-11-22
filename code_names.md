@@ -212,3 +212,6 @@ Complex Numbers
 
 ### R2D54
 Binary into decimal in linked list
+
+### R2D55
+Pointer
