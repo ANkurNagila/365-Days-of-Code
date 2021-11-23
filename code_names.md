@@ -215,3 +215,6 @@ Binary into decimal in linked list
 
 ### R2D55
 Pointer
+
+### R2D56
+Making Anagrams
