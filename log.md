@@ -659,3 +659,13 @@
 **Thoughts:** too easy
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/55_Code/pointer.cpp
+
+
+### Day 56: November 23, 2021
+
+**Today's Progress**:**Making Anagrams ** 
+
+**Thoughts:** revision
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/56_Code/making_anagrams.cpp
+
