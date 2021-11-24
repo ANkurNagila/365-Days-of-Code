@@ -218,3 +218,6 @@ Pointer
 
 ### R2D56
 Making Anagrams
+
+### R2D57
+Rectangle area
