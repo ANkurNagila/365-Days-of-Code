@@ -669,3 +669,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/56_Code/making_anagrams.cpp
 
+
+### Day 57: November 24, 2021
+
+**Today's Progress**:**Rectangle area** 
+
+**Thoughts:** class and inheritance
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/57_Code/rectangle_area.cpp
+
