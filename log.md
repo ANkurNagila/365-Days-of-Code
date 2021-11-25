@@ -678,3 +678,13 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/57_Code/rectangle_area.cpp
 
+
+
+### Day 58: November 25, 2021
+
+**Today's Progress**:**Datatypes** 
+
+**Thoughts:** Revision
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/58_Code/datatypes.cpp
+
