@@ -224,3 +224,6 @@ Rectangle area
 
 ### R2D58
 Datatypes.py
+
+### R2D59
+bitwise
