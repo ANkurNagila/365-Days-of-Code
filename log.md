@@ -689,7 +689,6 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/58_Code/datatypes.cpp
 
 
-
 ### Day 59: November 26, 2021
 
 **Today's Progress**:**bitwise** 
@@ -697,3 +696,13 @@
 **Thoughts:** Revision
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/59_Code/bitwise.cpp
+
+
+
+### Day 60: November 27, 2021
+
+**Today's Progress**:**Product of array** 
+
+**Thoughts:** array basics
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/60_Code/product_of_array.cpp
