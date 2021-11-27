@@ -227,3 +227,6 @@ Datatypes.py
 
 ### R2D59
 bitwise
+
+### R2D60
+Product of array
