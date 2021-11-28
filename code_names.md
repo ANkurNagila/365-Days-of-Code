@@ -230,3 +230,6 @@ bitwise
 
 ### R2D60
 Product of array
+
+### R2D61
+Binary sum
