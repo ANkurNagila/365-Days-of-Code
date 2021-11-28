@@ -706,3 +706,12 @@
 **Thoughts:** array basics
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/60_Code/product_of_array.cpp
+
+
+### Day 61: November 28,2021
+
+**Today's Progress**:**Revision of concepts**
+
+**Thoughts:** string basics
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/61_Code/binary_sum.cpp
