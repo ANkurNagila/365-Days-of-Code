@@ -233,3 +233,6 @@ Product of array
 
 ### R2D61
 Binary sum
+
+### R2D62
+Peak elements
