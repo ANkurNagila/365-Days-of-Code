@@ -724,4 +724,4 @@
 
 **Thoughts:** arrays
 
-**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/62_Code/peak_elements.cpp
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/62_Code/peak_element.cpp
