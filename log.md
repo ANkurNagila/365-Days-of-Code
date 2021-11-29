@@ -715,3 +715,13 @@
 **Thoughts:** string basics
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/61_Code/binary_sum.cpp
+
+
+
+### Day 62: November 29,2021
+
+**Today's Progress**:**Peak elements**
+
+**Thoughts:** arrays
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/62_Code/peak_elements.cpp
