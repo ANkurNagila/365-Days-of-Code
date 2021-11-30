@@ -717,7 +717,6 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/61_Code/binary_sum.cpp
 
 
-
 ### Day 62: November 29,2021
 
 **Today's Progress**:**Peak elements**
@@ -725,3 +724,12 @@
 **Thoughts:** arrays
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/62_Code/peak_element.cpp
+
+
+### Day 63: November 29,2021
+
+**Today's Progress**:**Chef and ingredients**
+
+**Thoughts:** strings and ascii
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/63_Code/chef_and_ingredients.cpp
