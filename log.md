@@ -726,10 +726,19 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/62_Code/peak_element.cpp
 
 
-### Day 63: November 29,2021
+### Day 63: November 30,2021
 
 **Today's Progress**:**Chef and ingredients**
 
 **Thoughts:** strings and ascii
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/63_Code/chef_and_ingredients.cpp
+
+
+### Day 64: December 1,2021
+
+**Today's Progress**:**2 Sum**
+
+**Thoughts:** use of hashing unordered_map (intro)
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/64_Code/2_sum.cpp
