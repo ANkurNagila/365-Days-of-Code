@@ -742,3 +742,12 @@
 **Thoughts:** use of hashing unordered_map (intro)
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/64_Code/2_sum.cpp
+
+
+### Day 65: December 2,2021
+
+**Today's Progress**:**Intersection of arrays**
+
+**Thoughts:** use of hashing unordered_map 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/65_Code/intersection_of_arrays.cpp
