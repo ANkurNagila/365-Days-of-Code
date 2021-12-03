@@ -759,4 +759,4 @@
 
 **Thoughts:** using vector  
 
-**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/66_Code/reshaping_the_array.cpp
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/66_Code/reshape_the_array.cpp
