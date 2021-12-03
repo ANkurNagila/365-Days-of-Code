@@ -751,3 +751,12 @@
 **Thoughts:** use of hashing unordered_map 
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/65_Code/intersection_of_arrays.cpp
+
+
+### Day 66: December 3,2021
+
+**Today's Progress**:**Reshape the arrays**
+
+**Thoughts:** using vector  
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/66_Code/reshaping_the_array.cpp
