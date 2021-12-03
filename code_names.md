@@ -245,3 +245,6 @@ Chef and ingredients
 
 ### R2D65
 Intersection of arrays
+
+### R2D66
+Reshaping the vector
