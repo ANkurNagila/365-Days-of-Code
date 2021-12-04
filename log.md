@@ -760,3 +760,13 @@
 **Thoughts:** using vector  
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/66_Code/reshape_the_array.cpp
+
+
+### Day 67: December 4,2021
+
+**Today's Progress**:**Search 2D matrix**
+
+**Thoughts:**  Binary search
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/67_Code/search_2d_matrix.cpp
+
