@@ -248,3 +248,6 @@ Intersection of arrays
 
 ### R2D66
 Reshaping the vector
+
+### R2D67
+Search 2D matrix
