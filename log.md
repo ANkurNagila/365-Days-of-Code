@@ -770,3 +770,13 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/67_Code/search_2d_matrix.cpp
 
+
+### Day 68: December 5,2021
+
+**Today's Progress**:**Valid Sudoku**
+
+**Thoughts:**  use of hashing 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/68_Code/valid_sudoku.cpp
+
+
