@@ -251,3 +251,6 @@ Reshaping the vector
 
 ### R2D67
 Search 2D matrix
+
+### R2D68
+Valid Sudoku
