@@ -254,3 +254,6 @@ Search 2D matrix
 
 ### R2D68
 Valid Sudoku
+
+### R2D69
+Lists of Lists
