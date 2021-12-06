@@ -780,3 +780,12 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/68_Code/valid_sudoku.cpp
 
 
+### Day 69: December 6,2021
+
+**Today's Progress**:**Lists of Lists**
+
+**Thoughts:**  Simple logic
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/69_Code/lists_of_lists.cpp
+
+
