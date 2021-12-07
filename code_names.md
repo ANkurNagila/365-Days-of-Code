@@ -257,3 +257,6 @@ Valid Sudoku
 
 ### R2D69
 Lists of Lists
+
+### R2D70
+Linked list cycle
