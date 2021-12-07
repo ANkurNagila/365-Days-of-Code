@@ -789,3 +789,12 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/69_Code/lists_of_lists.cpp
 
 
+### Day 70: December 7,2021
+
+**Today's Progress**:**Linked List cycle**
+
+**Thoughts:**  Hare and Tortoise algorithm
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/70_Code/linked_list_cycle.cpp
+
+
