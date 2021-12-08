@@ -804,6 +804,5 @@
 
 **Thoughts:**  Linked list revision
 
-**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/71_Code/remove_duplicated_sorted_list.cpp
-
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/71_Code/remove_duplicate_sorted_list.cpp
 
