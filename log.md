@@ -798,3 +798,12 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/70_Code/linked_list_cycle.cpp
 
 
+### Day 71: December 8,2021
+
+**Today's Progress**:**Remove Duplicate Linked List**
+
+**Thoughts:**  Linked list revision
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/71_Code/remove_duplicated_sorted_list.cpp
+
+
