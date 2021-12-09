@@ -263,3 +263,6 @@ Linked list cycle
 
 ### R2D71
 Remove duplicate linked list
+
+### R2D72
+Minimum bracket reversal
