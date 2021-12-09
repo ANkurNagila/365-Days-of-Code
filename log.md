@@ -806,3 +806,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/71_Code/remove_duplicate_sorted_list.cpp
 
+
+### Day 72: December 9,2021
+
+**Today's Progress**:**Minimum bracket reversal**
+
+**Thoughts:**  Using of stacks
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/72_Code/minimum_bracket_reversal.cpp
+
