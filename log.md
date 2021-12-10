@@ -815,3 +815,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/72_Code/minimum_bracket_reversal.cpp
 
+
+### Day 73: December 10,2021
+
+**Today's Progress**:**Stacks **
+
+**Thoughts:**  Nice question
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/73_Code/next_number.cpp
+
