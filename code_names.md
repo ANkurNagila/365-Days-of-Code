@@ -266,3 +266,6 @@ Remove duplicate linked list
 
 ### R2D72
 Minimum bracket reversal
+
+### R2D73
+Next number
