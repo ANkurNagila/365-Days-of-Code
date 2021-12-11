@@ -824,3 +824,12 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/73_Code/next_number.cpp
 
+
+### Day 74: December 11,2021
+
+**Today's Progress**:**Hashing **
+
+**Thoughts:** Simple variables can cause great trouble
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/74_Code/days_to_rob.cpp
+
