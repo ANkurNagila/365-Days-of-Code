@@ -269,3 +269,6 @@ Minimum bracket reversal
 
 ### R2D73
 Next number
+
+### R2D74
+Days to rob
