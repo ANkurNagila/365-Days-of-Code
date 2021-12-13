@@ -833,3 +833,23 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/74_Code/days_to_rob.cpp
 
+
+### Day 75: December 12,2021
+
+**Today's Progress**:**Leet Code**
+
+**Thoughts:** Simple vector question
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/75_Code/k_largest_sum.cpp
+
+
+
+### Day 76: December 13,2021
+
+**Today's Progress**:**Tree basics**
+
+**Thoughts:** Basics Tree
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/76_Code/tree.cpp
+
+
