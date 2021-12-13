@@ -274,4 +274,7 @@ Next number
 Days to rob
 
 ### R2D75
-None
+K Largest Sum
+
+### R2D76
+Tree
