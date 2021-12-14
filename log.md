@@ -853,3 +853,12 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/76_Code/tree.cpp
 
 
+### Day 77: December 14,2021
+
+**Today's Progress**:**Tree insertion**
+
+**Thoughts:** Basics of tree 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/77_Code/adding_elements_tree.cpp
+
+
