@@ -862,3 +862,12 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/77_Code/adding_elements_tree.cpp
 
 
+### Day 78: December 15,2021
+
+**Today's Progress**:**Sum of Nodes**
+
+**Thoughts:** basic of tree,recursion,queue
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/78_Code/sum_of_nodes.cpp
+
+
