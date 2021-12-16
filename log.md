@@ -871,3 +871,11 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/78_Code/sum_of_nodes.cpp
 
 
+### Day 79: December 16,2021
+
+**Today's Progress**:**Preorder and Postorder**
+
+**Thoughts:** basic of tree,recursion
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/79_Code/print_preorder_and_post_order.cpp
+
