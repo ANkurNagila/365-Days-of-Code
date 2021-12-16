@@ -284,3 +284,6 @@ Inserting elements in tree
 
 ### R2D78
 Sum of Nodes
+
+### R2D79
+Print PreOrder and PostOrder 
