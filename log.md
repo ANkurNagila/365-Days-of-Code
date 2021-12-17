@@ -879,3 +879,11 @@
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/79_Code/print_preorder_and_post_order.cpp
 
+
+### Day 80: December 17,2021
+
+**Today's Progress**:**Matching Brackets**
+
+**Thoughts:** Use of stacks
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/80_Code/matching_brackets.cpp
