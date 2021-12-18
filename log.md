@@ -887,3 +887,12 @@
 **Thoughts:** Use of stacks
 
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/80_Code/matching_brackets.cpp
+
+
+### Day 81: December 18,2021
+
+**Today's Progress**:**chef and street**
+
+**Thoughts:** linear data structure
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/81_Code/chef_and_street.cpp
