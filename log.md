@@ -900,8 +900,10 @@
 
 ### Day 82: December 19,2021
 
-**Today's Progress**:****
+**Today's Progress**:**Max child sum Node**
 
-**Thoughts:** 
+**Thoughts:** Tree and recursion 
 
-**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/81_Code/chef_and_street.cpp
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/82_Code/max_child_sum_node.cpp
+
+
