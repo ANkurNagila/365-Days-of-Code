@@ -907,3 +907,21 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/82_Code/max_child_sum_node.cpp
 
 
+### Day 83: December 20,2021
+
+**Today's Progress**:**Specail array**
+
+**Thoughts:** Array
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/83_Code/specail_array.cpp
+
+
+### Day 84: December 21,2021
+
+**Today's Progress**:****
+
+**Thoughts:** 
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/84_Code/ .cpp
+
+
