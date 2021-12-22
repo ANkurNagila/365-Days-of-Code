@@ -918,10 +918,10 @@
 
 ### Day 84: December 21,2021
 
-**Today's Progress**:****
+**Today's Progress**:**Diagonal sum**
 
-**Thoughts:** 
+**Thoughts:** Hashing used
 
-**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/84_Code/ .cpp
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/84_Code/diagonal_sum.cpp
 
 
