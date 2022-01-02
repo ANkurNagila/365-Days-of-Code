@@ -934,5 +934,19 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/85_Code/.cpp
 
 
+# Pause Due to Some reasons:
+
+
+### Day 86: January 2,2022
+
+**Today's Progress**:**Stacks revision**
+
+**Thoughts:** Maximum element in a stack
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/86_Code/maximum_element.cpp
+
+
+
+
 
 
