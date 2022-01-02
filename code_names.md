@@ -302,3 +302,9 @@ Special array
 
 ### R2D84
 Diagonal sum
+
+### R2D85
+
+
+### R2D86
+Maximum element
