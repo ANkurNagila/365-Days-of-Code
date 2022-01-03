@@ -308,3 +308,6 @@ Diagonal sum
 
 ### R2D86
 Maximum element
+
+### R2D87
+Country Leader
