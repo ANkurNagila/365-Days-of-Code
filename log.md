@@ -946,6 +946,15 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/86_Code/maximum_element.cpp
 
 
+### Day 87: January 3,2022
+
+**Today's Progress**:**Hashing revision**
+
+**Thoughts:** Learder (Kickstart 2016 A)
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/87_Code/country_leader.cpp
+
+
 
 
 
