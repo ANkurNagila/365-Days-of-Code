@@ -311,3 +311,6 @@ Maximum element
 
 ### R2D87
 Country Leader
+
+### R2D88
+Second Largest Node
