@@ -955,6 +955,15 @@
 **Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/87_Code/country_leader.cpp
 
 
+### Day 88: January 4,2022
+
+**Today's Progress**:**Tree**
+
+**Thoughts:** Second Largest Node
+
+**Link to work:**https://github.com/ANkurNagila/365-Days-of-Code/blob/main/Restart/88_Code/second_largest_node.cpp
+
+
 
 
 
